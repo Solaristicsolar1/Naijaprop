@@ -1,0 +1,20 @@
+[network]
+name = "devnet"
+node_rpc_address = "http://localhost:20443"
+deployment_fee_rate = 10
+
+[accounts.deployer]
+mnemonic = "twice kind fence tip hidden tilt action fragile skin nothing glory cousin green tomorrow spring wrist shed math olympic multiply hip blue scout claw"
+balance = 100_000_000_000_000
+# Secret key: 753b7cc01a1a2e86221266a154af739463fce51219d97e4f856cd7200c3bd2a601
+# Public key: 0390a5cac7c33fda49f70bc1b0866fa0ba7a9440d9de647fecb8132ceb76a94ddd
+# Address: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+# BTC Address: mqVnk6NPRdhntvfm4hh9vvjiRkFDUuSYsH
+
+[accounts.wallet_1]
+mnemonic = "sell invite acquire kitten bamboo drastic jelly vivid peace spawn twice guilt pave pen trash pretty park cube fragile unaware remain midnight betray rebuild"
+balance = 100_000_000_000_000
+# Secret key: 7287ba251d44a4d3fd9276c88ce34c5c52a038955511cccaf77e61068649c17801
+# Public key: 0350c9b5a3db8e5b1b8c5b5b5b5b5b5b5b5b5b5b5b5b5b5b5b5b5b5b5b5b5b5b5b
+# Address: ST1SJ3DTE5DN7X54YDH5D64R3BCB6A2AG2ZQ8YPD5
+# BTC Address: mr1iPkD9N3RJZZxXRk7xF9d36gffa6exNC
