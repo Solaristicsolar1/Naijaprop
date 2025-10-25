@@ -1,0 +1,33 @@
+{
+  "name": "naijaprop",
+  "version": "1.0.0",
+  "description": "A Stacks blockchain smart contract for land NFT management and property verification",
+  "main": "index.js",
+  "scripts": {
+    "test": "clarinet test",
+    "check": "clarinet check",
+    "console": "clarinet console"
+  },
+  "keywords": [
+    "stacks",
+    "blockchain",
+    "nft",
+    "land",
+    "property",
+    "clarity",
+    "smart-contract"
+  ],
+  "author": "Samuel",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samuel/NaijaProp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/samuel/NaijaProp/issues"
+  },
+  "homepage": "https://github.com/samuel/NaijaProp#readme",
+  "devDependencies": {
+    "@hirosystems/clarinet-sdk": "^2.0.0"
+  }
+}
